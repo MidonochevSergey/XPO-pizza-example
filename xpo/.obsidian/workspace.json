@@ -15,9 +15,9 @@
               "state": {
                 "file": "XPO example.canvas",
                 "viewState": {
-                  "x": 1200,
-                  "y": 1179.010551470588,
-                  "zoom": -1.371968777386958
+                  "x": 711.8114972495206,
+                  "y": 182.98829102028623,
+                  "zoom": 0.9607436919212343
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "XPO example.canvas",
+                "file": "Ключевые точки/КТ-2 - Оформление заказа.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for XPO example"
+              "title": "Backlinks for КТ-2 - Оформление заказа"
             }
           },
           {
@@ -117,12 +117,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "XPO example.canvas",
+                "file": "Ключевые точки/КТ-2 - Оформление заказа.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from XPO example"
+              "title": "Outgoing links from КТ-2 - Оформление заказа"
             }
           },
           {
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "XPO example.canvas",
+                "file": "Ключевые точки/КТ-2 - Оформление заказа.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of XPO example"
+              "title": "Outline of КТ-2 - Оформление заказа"
             }
           }
         ]
@@ -189,6 +189,8 @@
   },
   "active": "5f78ed3e16967108",
   "lastOpenFiles": [
+    "Ключевые точки/КТ-2 - Оформление заказа.md",
+    "XPO example.canvas",
     "Ключевые точки/КТ-11 - Выдача.md",
     "Ключевые точки/КТ-10 - Получение заказа.md",
     "Ключевые точки/КТ-9 - Отправка.md",
@@ -198,9 +200,7 @@
     "Ключевые точки/КТ-4 - Получение заказа.md",
     "Ключевые точки/КТ-5 - Употребление.md",
     "Ключевые точки/КТ-4 - Получение заказа copy.md",
-    "Ключевые точки/КТ-2 - Оформление заказа.md",
     "КТ-4 - Получение заказа.md",
-    "XPO example.canvas",
     "Ключевые точки/КТ-3 - Где мой заказ?.md",
     "Ключевые точки/КТ-1 - Я голоден.md",
     "Карта процесса-опыта для процесса заказа пиццы.md",
