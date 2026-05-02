@@ -4,17 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "1690d974506b1eb3",
+        "id": "60c20c7f913571ff",
         "type": "tabs",
         "children": [
           {
-            "id": "42f4717e15bc25a3",
+            "id": "5f78ed3e16967108",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "XPO example.canvas",
+                "viewState": {
+                  "x": 1200,
+                  "y": 1179.010551470588,
+                  "zoom": -1.371968777386958
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "XPO example"
             }
           }
         ]
@@ -74,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6d59dbd4fa26f5f9",
@@ -90,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "XPO example.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +108,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for XPO example"
             }
           },
           {
@@ -108,11 +117,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "XPO example.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from XPO example"
             }
           },
           {
@@ -150,12 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "XPO example.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of XPO example"
             }
           }
         ]
@@ -176,8 +187,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "42f4717e15bc25a3",
+  "active": "5f78ed3e16967108",
   "lastOpenFiles": [
+    "Ключевые точки/КТ-11 - Выдача.md",
+    "Ключевые точки/КТ-10 - Получение заказа.md",
+    "Ключевые точки/КТ-9 - Отправка.md",
+    "Ключевые точки/КТ-8 - Приготовление.md",
+    "Ключевые точки/КТ-7 - Обработка входящего.md",
+    "Ключевые точки/КТ-6 - Заказ в работу.md",
+    "Ключевые точки/КТ-4 - Получение заказа.md",
+    "Ключевые точки/КТ-5 - Употребление.md",
+    "Ключевые точки/КТ-4 - Получение заказа copy.md",
+    "Ключевые точки/КТ-2 - Оформление заказа.md",
+    "КТ-4 - Получение заказа.md",
+    "XPO example.canvas",
+    "Ключевые точки/КТ-3 - Где мой заказ?.md",
+    "Ключевые точки/КТ-1 - Я голоден.md",
+    "Карта процесса-опыта для процесса заказа пиццы.md",
+    "Ключевые точки",
+    "XPO example.base",
     "Welcome.md"
   ]
 }
