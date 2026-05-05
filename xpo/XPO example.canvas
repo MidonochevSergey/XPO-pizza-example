@@ -1,20 +1,20 @@
 {
 	"nodes":[
-		{"id":"db717abbed940feb","type":"group","x":-20,"y":-80,"width":2460,"height":500,"label":"Клиент"},
-		{"id":"e98dcd9bcc59de84","type":"group","x":980,"y":1780,"width":1440,"height":480,"label":"Курьер"},
-		{"id":"7f408053855c8693","type":"group","x":480,"y":580,"width":940,"height":480,"label":"Администратор"},
-		{"id":"48f2eea15ed4fdd1","type":"group","x":480,"y":1180,"width":940,"height":480,"label":"Повар"},
-		{"id":"f1a2b3c4d5e6f789","type":"file","file":"Ключевые точки/4. Курьер/КТ-4.1 - Получение заказа.md","x":1000,"y":1840,"width":400,"height":400,"color":"#4A90E2"},
-		{"id":"a7b8c9d0e1f23456","type":"file","file":"Ключевые точки/4. Курьер/КТ-4.2 - Выдача.md","x":2000,"y":1840,"width":400,"height":400,"color":"#4A90E2"},
-		{"id":"1ed1def40f6ee335","type":"file","file":"Ключевые точки/1. Клиент/КТ-1.4 - Получение заказа.md","x":1500,"y":0,"width":400,"height":400,"color":"#94B38A"},
-		{"id":"b2c3d4e5f6789012","type":"file","file":"Ключевые точки/1. Клиент/КТ-1.5 - Употребление.md","x":2000,"y":0,"width":400,"height":400,"color":"#94B38A"},
-		{"id":"db344df307b44582","type":"file","file":"Ключевые точки/1. Клиент/КТ-1.3 - Где мой заказ?.md","x":1000,"y":0,"width":400,"height":400,"color":"#94B38A"},
-		{"id":"d4e5f67890123456","type":"file","file":"Ключевые точки/2. Администратор/КТ-2.2 - Обработка входящего.md","x":1000,"y":640,"width":400,"height":400,"color":"#EEBF43"},
-		{"id":"e65e1a6512fd4c8e","type":"file","file":"Ключевые точки/1. Клиент/КТ-1.2 - Оформление заказа.md","x":500,"y":0,"width":400,"height":400,"color":"#94B38A"},
-		{"id":"a1b2c3d4e5f67890","type":"file","file":"Ключевые точки/2. Администратор/КТ-2.1 - Заказ в работу.md","x":500,"y":640,"width":400,"height":400,"color":"#EEBF43"},
-		{"id":"668a3942546efcf9","type":"file","file":"Ключевые точки/1. Клиент/КТ-1.1 - Я голоден.md","x":0,"y":0,"width":400,"height":400,"color":"#94B38A"},
-		{"id":"kt8id1234567890","type":"file","file":"Ключевые точки/3. Повар/КТ-3.1 - Приготовление.md","x":500,"y":1240,"width":400,"height":400,"color":"#c54f2d"},
-		{"id":"kt9id1234567890","type":"file","file":"Ключевые точки/3. Повар/КТ-3.2 - Отправка.md","x":1000,"y":1240,"width":400,"height":400,"color":"#c54f2d"}
+		{"id":"db717abbed940feb","type":"group","x":-20,"y":-80,"width":2460,"height":640,"label":"Клиент"},
+		{"id":"e98dcd9bcc59de84","type":"group","x":980,"y":1920,"width":1440,"height":480,"label":"Курьер"},
+		{"id":"7f408053855c8693","type":"group","x":480,"y":720,"width":940,"height":480,"label":"Администратор"},
+		{"id":"48f2eea15ed4fdd1","type":"group","x":480,"y":1320,"width":940,"height":480,"label":"Повар"},
+		{"id":"1ed1def40f6ee335","type":"file","file":"Ключевые точки/1. Клиент/КТ-1.4 - Получение заказа.md","x":1500,"y":0,"width":400,"height":540,"color":"#94B38A"},
+		{"id":"b2c3d4e5f6789012","type":"file","file":"Ключевые точки/1. Клиент/КТ-1.5 - Употребление.md","x":2000,"y":0,"width":400,"height":540,"color":"#94B38A"},
+		{"id":"db344df307b44582","type":"file","file":"Ключевые точки/1. Клиент/КТ-1.3 - Где мой заказ?.md","x":1000,"y":0,"width":400,"height":540,"color":"#94B38A"},
+		{"id":"e65e1a6512fd4c8e","type":"file","file":"Ключевые точки/1. Клиент/КТ-1.2 - Оформление заказа.md","x":500,"y":0,"width":400,"height":540,"color":"#94B38A"},
+		{"id":"668a3942546efcf9","type":"file","file":"Ключевые точки/1. Клиент/КТ-1.1 - Я голоден.md","x":0,"y":0,"width":400,"height":540,"color":"#94B38A"},
+		{"id":"a1b2c3d4e5f67890","type":"file","file":"Ключевые точки/2. Администратор/КТ-2.1 - Заказ в работу.md","x":500,"y":780,"width":400,"height":400,"color":"#EEBF43"},
+		{"id":"d4e5f67890123456","type":"file","file":"Ключевые точки/2. Администратор/КТ-2.2 - Обработка входящего.md","x":1000,"y":780,"width":400,"height":400,"color":"#EEBF43"},
+		{"id":"kt8id1234567890","type":"file","file":"Ключевые точки/3. Повар/КТ-3.1 - Приготовление.md","x":500,"y":1380,"width":400,"height":400,"color":"#c54f2d"},
+		{"id":"kt9id1234567890","type":"file","file":"Ключевые точки/3. Повар/КТ-3.2 - Отправка.md","x":1000,"y":1380,"width":400,"height":400,"color":"#c54f2d"},
+		{"id":"f1a2b3c4d5e6f789","type":"file","file":"Ключевые точки/4. Курьер/КТ-4.1 - Получение заказа.md","x":1000,"y":1980,"width":400,"height":400,"color":"#4A90E2"},
+		{"id":"a7b8c9d0e1f23456","type":"file","file":"Ключевые точки/4. Курьер/КТ-4.2 - Выдача.md","x":2000,"y":1980,"width":400,"height":400,"color":"#4A90E2"}
 	],
 	"edges":[
 		{"id":"59beda6ce078d80f","fromNode":"668a3942546efcf9","fromSide":"right","toNode":"e65e1a6512fd4c8e","toSide":"left"},
@@ -22,12 +22,12 @@
 		{"id":"169e6e3432b28d3c","fromNode":"db344df307b44582","fromSide":"right","toNode":"1ed1def40f6ee335","toSide":"left"},
 		{"id":"f0e1d2c3b4a59687","fromNode":"e65e1a6512fd4c8e","fromSide":"bottom","toNode":"a1b2c3d4e5f67890","toSide":"top"},
 		{"id":"c3d4e5f678901234","fromNode":"1ed1def40f6ee335","fromSide":"right","toNode":"b2c3d4e5f6789012","toSide":"left"},
-		{"id":"e5f6789012345678","fromNode":"db344df307b44582","fromSide":"bottom","toNode":"d4e5f67890123456","toSide":"top","label":"Телефон"},
 		{"id":"feec1f900f4d6178","fromNode":"a1b2c3d4e5f67890","fromSide":"right","toNode":"d4e5f67890123456","toSide":"left"},
 		{"id":"edgekt6kt8","fromNode":"a1b2c3d4e5f67890","fromSide":"bottom","toNode":"kt8id1234567890","toSide":"top"},
 		{"id":"edgekt7kt9","fromNode":"kt8id1234567890","fromSide":"right","toNode":"kt9id1234567890","toSide":"left"},
 		{"id":"62e6f63e9ceac7c0","fromNode":"kt9id1234567890","fromSide":"bottom","toNode":"f1a2b3c4d5e6f789","toSide":"top"},
 		{"id":"207e98cc953a7545","fromNode":"f1a2b3c4d5e6f789","fromSide":"right","toNode":"a7b8c9d0e1f23456","toSide":"left"},
-		{"id":"a93030af337195a6","fromNode":"a7b8c9d0e1f23456","fromSide":"top","toNode":"b2c3d4e5f6789012","toSide":"bottom"}
+		{"id":"a93030af337195a6","fromNode":"a7b8c9d0e1f23456","fromSide":"top","toNode":"b2c3d4e5f6789012","toSide":"bottom"},
+		{"id":"1b4f32b196875d5b","fromNode":"db344df307b44582","fromSide":"bottom","toNode":"d4e5f67890123456","toSide":"top"}
 	]
 }
