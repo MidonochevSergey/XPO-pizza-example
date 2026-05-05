@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "50c48b9af463c40d",
+        "id": "b7d8c564b7fda9f4",
         "type": "tabs",
         "children": [
           {
-            "id": "c9a9868c6d75b47b",
+            "id": "fa4fdbfc231349f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "XPO example - readme.md",
-                "mode": "source",
-                "source": false
+                "file": "XPO example - canvas.canvas",
+                "viewState": {
+                  "x": 1210,
+                  "y": 1160,
+                  "zoom": -1.4932750736090914
+                }
               },
-              "icon": "lucide-file",
-              "title": "XPO example - readme"
+              "icon": "lucide-layout-dashboard",
+              "title": "XPO example - canvas"
             }
           }
         ]
@@ -183,20 +186,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "c9a9868c6d75b47b",
+  "active": "fa4fdbfc231349f5",
   "lastOpenFiles": [
+    "Ключевые точки/4. Курьер/КТ-4.2 - Выдача.md",
     "XPO example - canvas.canvas",
+    "XPO example - readme.md",
     "XPO example - base.base",
     "Ключевые точки/1. Клиент/КТ-1.2 - Оформление заказа.md",
     "Ключевые точки/1. Клиент/КТ-1.1 - Я голоден.md",
     "Ключевые точки/1. Клиент/КТ-1.3 - Где мой заказ?.md",
-    "Ключевые точки/4. Курьер/КТ-4.2 - Выдача.md",
     "Ключевые точки/4. Курьер/КТ-4.1 - Получение заказа.md",
     "Ключевые точки/3. Повар/КТ-3.2 - Отправка.md",
     "Ключевые точки/3. Повар/КТ-3.1 - Приготовление.md",
     "Ключевые точки/2. Администратор/КТ-2.2 - Обработка входящего.md",
     "Ключевые точки/2. Администратор/КТ-2.1 - Заказ в работу.md",
-    "XPO example - readme.md",
     "Ключевые точки/1. Клиент/КТ-1.5 - Употребление.md",
     "Ключевые точки/1. Клиент/КТ-1.4 - Получение заказа.md",
     "Ключевые точки/4. Курьер",
