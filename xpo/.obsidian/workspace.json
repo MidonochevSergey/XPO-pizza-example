@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "b7d8c564b7fda9f4",
+        "id": "290a9f63ca38fd76",
         "type": "tabs",
         "children": [
           {
-            "id": "fa4fdbfc231349f5",
+            "id": "bea1e6f9e135a341",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "XPO example - canvas.canvas",
                 "viewState": {
-                  "x": 1210,
-                  "y": 1160,
-                  "zoom": -1.4932750736090914
+                  "x": 520.2671875000001,
+                  "y": 1025.3781751190236,
+                  "zoom": -2.4
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -186,10 +186,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "fa4fdbfc231349f5",
+  "active": "bea1e6f9e135a341",
   "lastOpenFiles": [
-    "Ключевые точки/4. Курьер/КТ-4.2 - Выдача.md",
     "XPO example - canvas.canvas",
+    "Ключевые точки/4. Курьер/КТ-4.2 - Выдача.md",
     "XPO example - readme.md",
     "XPO example - base.base",
     "Ключевые точки/1. Клиент/КТ-1.2 - Оформление заказа.md",
