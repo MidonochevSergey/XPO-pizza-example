@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "60c20c7f913571ff",
+        "id": "308bbc3c32c3f7ef",
         "type": "tabs",
         "children": [
           {
-            "id": "5f78ed3e16967108",
+            "id": "9509c8638cdcb84a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "XPO example.canvas",
-                "viewState": {
-                  "x": 711.8114972495206,
-                  "y": 182.98829102028623,
-                  "zoom": 0.9607436919212343
-                }
+                "file": "Ключевые точки/КТ-11 - Выдача.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "XPO example"
+              "icon": "lucide-file",
+              "title": "КТ-11 - Выдача"
             }
           }
         ]
@@ -81,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6d59dbd4fa26f5f9",
@@ -187,10 +183,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "5f78ed3e16967108",
+  "active": "9509c8638cdcb84a",
   "lastOpenFiles": [
-    "Ключевые точки/КТ-2 - Оформление заказа.md",
+    "Ключевые точки/КТ-12 - Отзыв клиента.md",
     "XPO example.canvas",
+    "Untitled.canvas",
+    "Ключевые точки/КТ-2 - Оформление заказа.md",
     "Ключевые точки/КТ-11 - Выдача.md",
     "Ключевые точки/КТ-10 - Получение заказа.md",
     "Ключевые точки/КТ-9 - Отправка.md",
